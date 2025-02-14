@@ -1,6 +1,7 @@
 # Xora Project
 
-![Xora Logo](./public/image_git/logo.png)
+![Xora Logo](./public/images/hero.png)
+![Xora Logo](./public/images/xora.svg)
 
 ## Overview
 
@@ -60,7 +61,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-username/xora.git
+$ git clone https://github.com/ThanhThai-Dev/Xora.git
 
 # Go into the repository
 $ cd xora
@@ -69,7 +70,7 @@ $ cd xora
 $ npm install
 
 # Run the app
-$ npm start
+$ npm run dev
 ```
 
 ## Contributing
@@ -82,4 +83,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries, please contact us at [support@xora.com](mailto:support@xora.com).
+For any inquiries, please contact us at [thanhthaib2t2212@gmail.com](mailto:thanhthaib2t2212@gmail.com).
