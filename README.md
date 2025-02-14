@@ -43,8 +43,15 @@ Xora is a modern web application built with ReactJS. It aims to provide users wi
 
 ## Screenshot
 
+## Screenshot
+
+### Xora Home
 ![Xora Home](./public/image_git/home.png)
+
+### Xora Download
 ![Xora Download](./public/image_git/download.png)
+
+### Xora Price
 ![Xora Price](./public/image_git/price.png)
 
 ## Installation
